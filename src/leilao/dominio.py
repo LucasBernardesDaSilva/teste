@@ -9,7 +9,7 @@ class Usuario:
 
     def propoe_lance(self, leilao, valor: float):
         """
-        docstring
+        teste 123
         """
         if self.__carteira >= valor:
             self.__carteira -= valor
